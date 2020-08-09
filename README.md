@@ -1,4 +1,4 @@
 # leetcode
 数据结构与算法刷题
-### 数组
-### Linked List
+### 1、数组
+### 2、Linked List
