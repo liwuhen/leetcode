@@ -24,3 +24,4 @@
 - **[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)**
 - **[239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)**
 - **[641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/?utm_source=LCUS&utm_medium=ip_redirect_q_uns&utm_campaign=transfer2china)**
+- **[42. 接雨水](https://leetcode.com/problems/trapping-rain-water/)**
