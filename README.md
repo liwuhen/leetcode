@@ -18,3 +18,9 @@
 - **[21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)**
 - **[88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)**
 - **[66. 加一](https://leetcode-cn.com/problems/plus-one/)**
+### 4、栈和队列
+- **[20. 有效的括号](https://leetcode-cn.com/problems/valid-parentheses/description/)**
+- **[155. 最小栈](https://leetcode-cn.com/problems/min-stack/)**
+- **[84. 柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)**
+- **[239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)**
+- **[641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/?utm_source=LCUS&utm_medium=ip_redirect_q_uns&utm_campaign=transfer2china)**
