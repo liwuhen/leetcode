@@ -25,3 +25,7 @@
 - **[239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)**
 - **[641. 设计循环双端队列](https://leetcode-cn.com/problems/design-circular-deque/?utm_source=LCUS&utm_medium=ip_redirect_q_uns&utm_campaign=transfer2china)**
 - **[42. 接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)**
+### 5、哈希表，映射，集合
+- **[242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/)**
+- **[49. 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)**
+- **[1. 两数之和](https://leetcode-cn.com/problems/two-sum/description/)**
